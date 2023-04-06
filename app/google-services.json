@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "51293188360",
+    "project_id": "kids-aae42",
+    "storage_bucket": "kids-aae42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51293188360:android:11067ceda7278a2f2dfcbd",
+        "android_client_info": {
+          "package_name": "com.example.kidssaftey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51293188360-svteinfaikb1dh99l5frhvpshadk533t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kidssaftey",
+            "certificate_hash": "799a43118cbf4b52eebbd2115cb900cfc0338b0e"
+          }
+        },
+        {
+          "client_id": "51293188360-nt7iuq7eiku7mmvsanje55969ttlme7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhsLP8__bk9ays0FdyXMSiINt3U0ySW2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51293188360-nt7iuq7eiku7mmvsanje55969ttlme7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
